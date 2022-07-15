@@ -35,7 +35,7 @@ The Digital signature of the Flight log is then verified against the public key 
 ## For Developers
 The app is written in python 3.6. To run the app, download the repo or clone the repository using
 
-`git clone https://github.com/iSPIRT/NPNT-Provisional-testing-tool.git`
+`git clone https://github.com/cherryycodes/NPNT-Provisional-testing-tool`
 
 install the requirements 
 
