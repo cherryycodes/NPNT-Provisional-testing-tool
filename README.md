@@ -43,7 +43,7 @@ install the requirements
 
 Run the app
 
-`python npnt_testing_app.py`
+`python npntesting.py`
 
 ### Examples - 
 #### Verify a pass case
