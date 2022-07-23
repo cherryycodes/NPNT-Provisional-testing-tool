@@ -39,7 +39,7 @@ The app is written in python 3.6. To run the app, download the repo or clone the
 
 go to the installed repo
 
-`cd NPNT-Provisional-testing-tool'
+`cd NPNT-Provisional-testing-tool`
 
 install the requirements 
 
