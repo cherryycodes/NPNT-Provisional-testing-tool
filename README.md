@@ -37,6 +37,9 @@ The app is written in python 3.6. To run the app, download the repo or clone the
 
 `git clone https://github.com/cherryycodes/NPNT-Provisional-testing-tool`
 
+go to the installed repo
+`cd NPNT-Provisional-testing-tool'
+
 install the requirements 
 
 `pip install -r requirements.txt`
